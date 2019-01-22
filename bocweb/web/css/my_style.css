@@ -1,0 +1,343 @@
+body {
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0,0,0,.2);
+}
+
+input::placeholder, textarea::placeholder{
+    color: #666666;
+}
+
+.w92 {
+    width: 92%;
+    position: relative;
+    margin: 0 auto;
+    padding:30px 0;
+}
+
+.inline-banner {
+    width: 100%;
+    height: 352px;
+    position: relative;
+}
+
+.z-index{
+    position:relative;
+    background:url('../images/mother/mother-bg.jpg') no-repeat bottom #E8F0F8;
+    background-size: 100%;
+    overflow-x: hidden;
+    padding:0 0 50px 0;
+    background-color: #FFEDF1;
+}
+.fl{
+    display:inline;
+    float:left;
+}
+
+.fr{
+    display:inline;
+    float:right;
+}
+
+.footer-info{
+    text-align: center;
+}
+
+.footer-info p{
+    padding:5px 0;
+    font-size:14px;
+}
+
+@font-face {
+    font-family: 'hyyj';
+    src: url('../font/hyyj.ttf');
+}
+
+
+/**** welcome ****/
+
+.ruler-btn{
+    border:0px;
+    background-color: transparent;
+    width: 80px;
+    height: 21px;
+    background: url('../images/mother/ruler-btn.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.form-book{
+    width:100%;
+    margin:55px 0 0 0;
+}
+
+.border-line{
+    width:80%;
+    height:28px;
+    line-height:28px;
+    margin:20px auto;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.form-input{
+    width:100%;
+    height:28px;
+    line-height:28px;
+    margin:0 auto;
+    border:0px;
+    background-color: transparent;
+}
+
+#code{
+    width:60%;
+    display:inline-block;
+}
+
+.send_code{
+    width:30%;
+    display:inline-block;
+}
+.send_code button, .border-submit button{
+    width:100%;
+    background-color: transparent;
+    height:28px;
+    line-height: 28px;
+    border:0px;
+}
+
+.border-submit{
+    width:60%;
+    height:35px;
+    line-height:35px;
+    margin:0 auto;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color:#CA4256;
+}
+
+.border-submit button{
+    color:#fff;
+    height:35px;
+    line-height:35px;
+}
+
+
+/***** ruler *****/
+.detail_ruler{
+    width:100%;
+    margin:55px 0 0 0;
+}
+
+.detail_ruler li{
+    width:90%;
+    padding:10px 2.5%;
+    line-height:24px;
+}
+
+.detail_ruler p{
+
+}
+
+.detail_ruler strong{
+    width:20%;
+    border-left: 4px solid #595758;
+    padding:0 0 0 10px;
+}
+
+.detail_ruler table{
+    width:100%;
+}
+
+.detail_ruler table td{
+    border:1px solid #666666;
+    padding:3px;
+}
+
+.detail_ruler p img{
+    width:100%;
+}
+
+
+
+/***** message *****/
+.message{
+    width:90%;
+    max-width: 500px;
+    margin:0 auto;
+    margin-top:55px;
+    text-align: center;
+}
+
+.head_img{
+    width:80%;
+    height:auto;
+    margin:0 auto;
+    text-align:center
+}
+
+.head_img img{
+    width:80px;
+    height:80px;
+    margin:0 auto;
+    border-radius: 50%;
+}
+
+.head_img span{
+    display:block;
+    padding:10px 0 5px 0;
+}
+
+.message .guide{
+    padding:10px 0;
+}
+
+.message p{
+    line-height:24px;
+}
+
+.message .textarea{
+    padding:15px 0;
+}
+
+.message textarea{
+    width:100%;
+    font-family: 'hyyj';
+    line-height:24px;
+    background-color: transparent;
+}
+
+
+
+/***** letter *****/
+.letter{
+    width:100%;
+    max-width:500px;
+    margin:0 auto;
+    margin-top:55px;
+}
+
+.letter-title{
+    padding:0 0 0 20px;
+}
+
+.letter .userinfo{
+    width:80%;
+    margin:0 auto;
+}
+
+.letter .infos{
+    width:50%;
+    text-align: right;
+    padding:0 10px 0 0;
+    border-right:2px solid black;
+}
+
+.letter .ranking{
+    width:40%;
+    text-align: left;
+    padding:0 0 0 10px;
+}
+
+.letter .content{
+    width:100%;
+    padding:20px 0;
+    margin: 20px auto;
+    min-height: 160px;
+    position: relative;
+}
+
+.letter .u-title{
+    font-size:14px;
+    color:#000;
+    line-height:16px;
+}
+
+.letter .u-title span{
+    color:#ff0000;
+    font-weight:bold;
+}
+
+.letter .number h2{
+    font-size:16px;
+    color:#AA033C;
+    font-weight:bold;
+    line-height:24px;
+}
+
+.letter .content a{
+    font-family:'hyyj';
+    color:#0e0000;
+    border-bottom: 1px dashed;
+}
+
+.timeline{
+    position: absolute;
+    bottom: 25px;
+    right: 5%;
+}
+
+
+.letter .message-letter{
+    width:90%;
+    margin:0 auto;
+    padding:20px 0;
+    text-indent:2em;
+    line-height:24px;
+}
+
+.letter .content a:hover{
+    color:#333;
+}
+
+.letter .guide{
+    padding:0 20px;
+    text-align: center;
+}
+
+.letter .border-submit{
+    margin-top:20px;
+}
+
+
+
+/***** prizes *****/
+.prizes{
+    width:100%;
+    margin:0 auto;
+    margin-top:55px;
+    text-align: center;
+}
+
+.prizes-list{
+    text-align: left;
+    margin-left:50%;
+    padding:5px 0;
+}
+
+.list-line{
+    margin-left:-105px;
+    line-height:22px;
+}
+
+.note{
+    color:#ff2222;
+    padding:5px;
+}
+
+
+
+/***** share *****/
+canvas {
+    display: block;
+    position: absolute;
+    bottom: 30%;
+    right:50%;
+    z-index: 20;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    margin-right: -85px;
+}

@@ -1,0 +1,2048 @@
+@media (max-width: 1450px){
+	.w1400{
+		width: 92%;
+	}
+	.wel-brands .slides .pic{
+		width: 140px;
+	    height: 140px;
+	    line-height: 140px;
+	}
+	.w1195{
+		width: 92%;
+	}
+	header ul.list{
+		padding-top: 12px;
+	}
+	.wel-banner .swiper-wrapper img{
+		width: 1500px;
+		margin-left:-750px; 
+	}
+	.wel-banner .swiper-wrapper li{
+		height: 703px;
+	}
+	.flex-right{
+		right: 1%;
+	}
+	footer .flex-right{
+		right: 1%;
+	}
+	.wel-environment-list,.wel-brands{
+		width: 98%;
+	}
+	.prenatal-care .prenatal-list p.link{
+		line-height: 28px;
+		font-size: 13px;
+		background: url(../img/ser06.png) no-repeat left 12px;
+	}
+	.green-smart-list li .tit{
+		margin: 20px auto 8px;
+	}
+	.green-smart-list li h2 {
+	    font-size: 18px;
+	    line-height: 32px;
+	}
+	.green-smart-list li p {
+	    width: 85%;
+	    margin: 4px auto 12px;
+	    font-size: 12px;
+	    line-height: 20px;
+	    min-height: 80px;
+	}
+	.news-info-box{
+		width: 92%;
+	}
+	.wel-banner.case-banner .slides img{
+		width: 1450px;
+		margin-left: -725px;
+	}
+	.wel-banner.case-banner .slides li{
+		height: 316px;
+	}
+	.video-ajax .con{
+		width: 56%;
+	    height: 64%;
+	    margin-left: -31%;
+	    margin-top: -14%;
+	}
+	.video-ajax iframe{
+		width: 57.3vw;
+    	height: 74.9vw;
+	}
+	.mom-box li .pic{
+		height: 15.2vw;
+	}
+}
+@media (max-width: 1330px){
+	.mom-box li h2{
+		margin-top: 5px;
+	}
+	.mom-box li p.font{
+		margin-top: 0;
+	}
+	.mom-box li .more{
+		margin-top: 12px;
+	}
+	.mom-box li .con{
+		width: 51%;
+	}
+	.table-box th{
+		font-size: 14px;
+		line-height: 24px;
+		padding: 10px 1%;
+	}
+	.table-box td {
+	    font-size: 12px;
+	    line-height: 22px;
+	    padding: 10px 1%;
+	}
+	.table-box td .apply-box{
+		font-size: 14px;
+	}
+	.table-box td.title{
+		font-size: 16px;
+    	line-height: 24px;
+	}
+	.table-box{
+		margin-bottom: 45px;
+	}
+	.mum_service-list .con{
+		padding: 20px 3% 0;
+	}
+	.mum_service-list .con p{
+		line-height: 26px;
+		background: url(../img/ser06.png) no-repeat left 12px;
+	}
+	.team .intro .con{
+		width: 62%;
+    	margin-left: 3%;
+	}
+	.team .intro h2{
+		margin: 15px 0;
+	}
+}
+
+@media (max-width: 1200px){
+	.wel-banner .swiper-wrapper img{
+		width: 1200px;
+		margin-left:-600px; 
+	}
+	.wel-banner .swiper-wrapper li{
+		height: 562px;
+	}
+	.fot-logo{
+		height: 52px;
+	}
+	footer{
+		padding-top: 117px;
+	}
+	footer .top{
+		padding: 20px 0 14px;
+	}
+	footer h2{
+		margin-bottom: 5px;
+	}
+	footer .contact h3 {
+	    font-size: 13px;
+	    margin-bottom: 9px;
+	}
+	footer .weima p {
+	    font-size: 14px;
+	    line-height: 24px;
+	    margin-top: 7px;
+	}
+	footer .bot{
+		padding: 8px 0;
+	}
+	footer .font{
+		font-size: 12px;
+	}
+	.wel-news .news-intro .con{
+		width:62%;
+	}
+	.wel-news .news-intro .title{
+		width: 60%;
+	}
+	.wel-news .news-intro h2 {
+	    line-height: 36px;
+	    font-size: 18px;
+	    height: 36px;
+	}
+	.wel-news .news-intro .time{
+		font-size: 12px;
+	}
+	.inline-banner{
+		height: 345px;
+		background-size: 1200px !important;
+	}
+	.w1125{
+		width: 92%;
+	}
+	.ab-culture-top .box{
+		width: 23vw;
+    	height: 23vw;
+    	margin-top: 6vw;
+	}
+	.culturn-center{
+		width: 34.5vw;
+    	height: 34.5vw;
+    	margin-left: 1.8vw;
+	}
+	.ab-culture-top h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	    margin-top: 5vw;
+	}
+	.ab-culture-top p {
+	    font-size: 15px;
+	    line-height: 25px;
+	    width: 75%;
+	}
+	.culturn-center-list .swiper-wrapper li {
+	    font-size: 15px;
+	    line-height: 25px;
+	}
+	.culturn-center-list{
+		height: 100px;
+	}
+	.ab-news .list .more{
+		margin-top: 15px;
+	}
+	.ab-news .list h2{
+		margin-top: 5px;
+	}
+	.ab-news .list .more{
+		height: 40px;
+		line-height: 40px;
+		width: 145px;
+	}
+	.ab-join-box .title span{
+		width: 24%;
+	}
+	.ab-map-con .box{
+		width: 42%;
+    	padding:20px 2%;
+    	margin-top: -179px;
+	}
+	.ab-map-con .box h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+	.ab-map-con .box i {
+	    margin: 7px 0 15px;
+	}
+	.ab-map-con .box .ff {
+	    font-size: 14px;
+	    line-height: 24px;
+	}
+	.ab-map-con .box ul{
+		width: 100%;
+		margin: 15px auto 0;
+	}
+	.ab-map-con .box .font{
+		font-size: 14px;
+	    line-height: 24px;
+	    margin-top: 5px;
+	}
+	#allmap{
+		height:500px;
+	}
+	.mom-box li h2{
+		font-size: 18px;
+	    line-height: 28px;
+	    height: 28px;
+	}
+	.mom-box li p.font {
+	    font-size: 14px;
+	    line-height: 24px;
+	    height: 48px;
+	}
+	header{
+		padding-top: 6px;
+	}
+	.dalshbet-list li .con{
+		width: 63%;
+	}
+	.dalshbet-list li .box{
+		margin-top: 10px;
+	}
+	.dalshbet-list li .link{
+		line-height: 35px;
+	}
+	.dalshbet-list li .consult-link{
+		margin-top: 30px;
+	}
+	.dalshbet-list li{
+		margin-bottom: 60px;
+	}
+	.dalshbet-list li h2 {
+	    font-size: 22px;
+	    line-height: 42px;
+	}
+	.dalshbet-list li .link{
+		font-size: 14px;
+	}
+	.dalshbet-list li i{
+		margin: 7px 0 14px;
+	}
+	.prenatal-care .prenatal-list p.link{
+		padding-left: 7px;
+		font-size: 12px;
+	}
+	.professional-list li h2{
+		font-size: 20px;
+	}
+	.green-smart-list li{
+		margin-bottom: 20px;
+	}
+	.service-font {
+	    padding: 15px 0 25px;
+	}
+	.green-smart{
+		padding: 40px 0 45px;
+	}
+	.green-smart-list li .pic{
+		width: 154%;
+		height: auto;
+		left:50%;
+		margin-left:-77%;
+	}
+}
+
+@media (max-width: 1024px){
+	.wel-banner .swiper-wrapper img{
+		width: 1050px;
+		margin-left:-525px; 
+	}
+	.wel-banner .swiper-wrapper li{
+		height: 492px;
+	}
+	.wel-banner.swiper-container-horizontal>.swiper-pagination {
+	    bottom: 10px;
+	}
+	footer .top{
+		display: none;
+	}
+	.flex-right{
+		display: none !important;
+	}
+	footer .flex-right{
+		display: block !important;
+		position: relative;
+		top:0;
+		margin-top: 0;
+		right: 0;
+		margin: 0 auto;
+	}
+	footer .flex-right li.top{
+		display: block;
+	}
+	footer .bot{
+		margin-top: 20px;
+	}
+	footer .font{
+		width: 100%;
+		border-top: 1px solid #ededed;
+		margin-top: 10px;
+		float: none;
+		display: block;
+		padding-top: 10px;
+		text-align: center;
+	}
+	footer .link{
+		width: 100%;
+		text-align: center;
+		margin:30px auto 0;
+	}
+	.wel-service{
+		margin: 50px 0 55px;
+	}
+	.wel-service .pic p{
+		font-size: 16px;
+	    line-height: 26px;
+	    padding: 50px 55px 10px 0;
+	}
+	.wel-service .pic .bg{
+		bottom: -40px;
+	}
+	.wel-service .pic .add{
+		width: 15px;
+    	height: 15px;
+    	background-size: 100%;
+    	top: 44px;
+    	left: 57px;
+	}
+	.wel-title h2{
+		font-size: 22px;
+    	line-height: 32px;
+	}
+	.wel-title i{
+		margin: 7px auto 5px;
+	}
+	.wel-title p {
+	    font-size: 16px;
+	    line-height: 26px;
+	}
+	.wel-team{
+		margin: 30px 0 50px;
+	}
+	.wel-team-box{
+		padding: 30px 0 33px;
+	}
+	.wel-team-list .slides li{
+		padding: 8px 0;
+	}
+	.wel-team-list .slides p {
+	    font-size: 14px;
+	    line-height: 24px;
+	}
+	.wel-team-box .con h2{
+		margin-top: 4px;
+	}
+	.wel-team-box .con .font{
+		margin-top: 7px;
+		font-size: 13px;
+    	line-height: 24px;
+	}
+	.wel-team-box .con a{
+		bottom: -30px;
+	}
+	.wel-team-box{
+		min-height: 295px;
+	}
+	.wel-news .left{
+		width: 49%;
+	}
+	.wel-news .right{
+		width: 49%;
+	}
+	.wel-news .top {
+	    margin-bottom: 25px;
+	}
+	.wel-news .tit-pic{
+		width: 50px;
+    	height: 50px;
+    	line-height: 50px;
+	}
+	.wel-news .tit-font h2 {
+	    font-size: 18px;
+	    line-height: 20px;
+	    margin-top: 1px;
+	}
+	.wel-news .tit-font p {
+	    font-size: 16px;
+	    line-height: 24px;
+	}
+	.wel-news .more {
+	    font-size: 15px;
+	    line-height: 50px;
+	    padding-right: 32px;
+	}
+	.wel-news .news-intro h2{
+		font-size: 16px;
+	}
+	.wel-news .news-intro .font{
+		font-size: 12px;
+		line-height: 22px;
+		height: 44px;
+	}
+	.wel-news .news-intro{
+		margin-bottom: 6px;
+	}
+	.wel-news li{
+		padding: 8px 0;
+	}
+	.wel-news li h2{
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.wel-news li .time{
+		font-size: 12px;
+	}
+	.wel-news{
+		padding-bottom: 50px;
+	}
+	.wel-environment-font{
+		padding: 15px 0 0;
+		width: 100%;
+	}
+	.wel-environment-list li a{
+		top: 25px;
+	}
+	.wel-environment-list{
+		padding: 0 50px;
+	}
+	.wel-environment-list .swiper-wrapper{
+		padding: 45px 0;
+	}
+	.wel-brands{
+		padding: 30px 50px 50px;
+	}
+	.city-box li .con{
+		padding: 2vw 2% 0;
+	}
+	.city-box li h2 {
+	    font-size: 18px;
+	    line-height: 28px;
+	}
+	.city-box li .font{
+	    font-size: 12px;
+	    line-height: 22px;
+	}
+	.city-box li .pic{
+		height: 280px;
+	}
+	.city-box li img{
+		margin-left: -140px;
+	}
+	.city-box li .bg{
+		width: 16px;
+    	height: 27px;
+	}
+	.city-box{
+		margin-top: 40px;
+	}
+	.now{
+		margin-bottom: 20px;
+	}
+	.ab-city {
+	    padding: 15px 0 50px;
+	}
+	.ab-intro{
+		padding: 30px 0 40px;
+	}
+	.ab-intro-font {
+	    font-size: 13px;
+	    line-height: 23px;
+	    width: 100%;
+	    margin: 15px auto 20px;
+	}
+	.w1125{
+		width:100%;
+	}
+	.ab-culture-top .box {
+	    width: 26vw;
+	    height: 26vw;
+	    margin-top: 4vw;
+	}
+	.ab-culture{
+		padding: 30px 0 45px;
+	}
+	.ab-culture-top{
+		padding-top: 40px;
+	}
+	.ab-news{
+		padding: 30px 0 40px;
+	}
+	.ab-news .list {
+	    padding-top: 20px;
+	}
+	.ab-news .more-ajax {
+	    width: 160px;
+	    margin: 20px auto 0;
+	}
+	.ab-news .list .font{
+		font-size: 14px;
+	    line-height: 24px;
+	    height: 48px;
+	    margin-top: 6px;
+	}
+	.ab-news .list .pic{
+		width: 26%;
+	}
+	.ab-join {
+	    padding: 30px 0 55px;
+	}
+	.ab-join-box{
+		margin-top: 20px;
+	}
+	.ab-join-box .title{
+		padding: 10px 0;
+	}
+	.ab-join-box .title span{
+		font-size: 12px;
+	}
+	.ab-join-box .title span:first-child{
+		font-size: 14px;
+	}
+	.ab-join-box .con{
+		padding: 4px 4% 15px;
+	}
+	.ab-join-box .con h2 {
+	    font-size: 15px;
+	    line-height: 25px;
+	    margin-top: 10px;
+	}
+	.ab-join-box .con p {
+	    font-size: 13px;
+	    line-height: 23px;
+	}
+	.news-info{
+		padding: 20px 0 25px;
+	}
+	.news-info-box h2 {
+	    font-size: 18px;
+	    line-height: 28px;
+	    padding: 14px 0 15px;
+	    margin-bottom: 15px;
+	}
+	.news-info-box h2 .time{
+		font-size: 12px;
+		padding-left: 22px;
+	}
+	.news-info-box p {
+	    font-size: 12px;
+	    line-height: 24px;
+	}
+	.news-info-box .bdsharebuttonbox{
+		margin-top: 30px;
+	}
+	.news-info-box .bdsharebuttonbox span{
+		font-size: 14px;
+	}
+	.news-info-box .info-bot{
+		margin-top: 12px;
+		padding-top: 15px;
+	}
+	.news-info-box .info-bot p {
+	    font-size: 13px;
+	    line-height: 24px;
+	    height: 24px;
+	}
+	.visit-box .visit-con,.visit-box1 .visit-con{
+		margin: 0;
+		border-radius: 0;
+		width: 100%;
+		height: auto;
+		bottom: auto;
+		right: auto;
+		padding: 15px 2% 20px;
+	}
+	.visit-box .visit-con .close,.visit-box1 .visit-con .close{
+		top: 11px;
+	}
+	.visit-box .visit-con h2,.visit-box1 .visit-con h2{
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+	.visit-box .visit-con form,.visit-box1 .visit-con form{
+		margin-top: 20px;
+	}
+	.visit-box .visit-con .text, .visit-box .visit-con select,.visit-box1 .visit-con .text,.visit-box1 .visit-con select{
+		margin-bottom: 10px;
+		height: 45px;
+    	line-height: 45px;
+    	padding: 0 2%;
+    	font-size: 14px;
+	}
+	.visit-box .visit-con .text.on,.visit-box1 .visit-con .text.on{
+		margin-bottom: 20px;
+	}
+	.visit-box .visit-con .submit,.visit-box1 .visit-con .submit{
+		width: 180px;
+	    height: 40px;
+	    line-height: 40px;
+	    font-size: 14px;
+	    margin-left:-90px;
+	    position: relative;
+	    left: 50%;
+	}
+	.mom-box li .more {
+	    width: 64%;
+	    height: 35px;
+	    line-height: 35px;
+	    margin-top: 8px;
+	}
+	.mom-box li .more span{
+		font-size: 12px;
+	}
+	.mom-box li{
+		margin-bottom: 20px;
+	}
+	.mom-box{
+		padding: 20px 0;
+	}
+	.news-box{
+		padding: 15px 0 60px;
+	}
+	.news-list{
+		margin: 15px auto 40px;
+	}
+	.news-list .slides li:nth-child(2n+1) a{
+		border-radius: 35px 0 0 35px;
+	}
+	.news-list .slides li:nth-child(2n) a{
+		border-radius:0 35px 35px 0;
+	}
+	header ul.list{
+		display: none;
+	}
+	header{
+		width: 100% !important;
+		padding: 5px 4%;
+		background: #fff !important;
+		position: fixed !important;
+		box-shadow: 0 0 10px rgba(0,0,0,.1);
+		left: 0 !important;
+		height: 50px;
+		padding-bottom: 5px !important;
+	}
+	header .nav-btn{
+		display: block;
+	}
+	header .logo{
+		width: auto;
+		height: 100%;
+	}
+	header .logo img{
+		width: auto;
+		height: 100%;
+	}
+	header .nav-btn{
+		top: auto;
+		margin-top: 5px;
+	}
+	.classroom-pc{
+		display: none;
+	}
+	.classroom-mobile{
+		display: block;
+	}
+	.classroom-info .con{
+		width: 92%;
+		padding: 30px 1.8%;
+		height: 276px;
+	}
+	.classroom-info .font{
+		margin-top: 20px;
+	}
+	.classroom-info .close{
+		top: 10px;
+    	right: 10px;
+    	width: 30px;
+    	height: 30px;
+    	background-size: 100%;
+	}
+	.dalshbet-list li .con{
+		width: 45%;
+	}
+	.dalshbet-list .pic{
+		width: 50%;
+	}
+	.dalshbet-list li .consult-link{
+		width: 70%;
+	}
+	.dalshbet-list li h2 {
+	    font-size: 18px;
+	    line-height: 34px;
+	}
+	.dalshbet-list li p.font {
+	    font-size: 12px;
+	    line-height: 20px;
+	}
+	.dalshbet-list li .link{
+		font-size: 12px;
+		line-height: 24px;
+	}
+	.dalshbet-list li h3 {
+	    font-size: 16px;
+	    line-height: 30px;
+	}
+	.dalshbet-list li .consult-link{
+		font-size: 14px;
+	}
+	.dalshbet-font{
+		padding: 20px 0 50px;
+		font-size: 12px;
+	    line-height: 22px;
+	}
+	.dalshbet-font p {
+	    font-size: 12px;
+	    line-height: 22px;
+	}
+	.service-font{
+		padding: 20px 0 25px;
+		font-size: 13px;
+		line-height: 24px;
+	}
+	.service-font p{
+		font-size: 13px;
+		line-height: 24px;
+	}
+	.prenatal-care .prenatal-list .con{
+		padding:15px 5%;
+	}
+	.prenatal-care .prenatal-list h2{
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.prenatal-care .prenatal-list p.link{
+		font-size: 12px;
+	}
+	.prenatal-care .prenatal-list li{
+		width: 32.3%;
+    	margin-left:1.5%;
+	}
+	.prenatal-care .prenatal-list p.font{
+		font-size: 12px;
+    	line-height: 22px;
+	}
+	.prenatal-care .prenatal-list{
+		margin-bottom: 30px;
+	}
+	.mum_service-list li{
+		margin-bottom: 20px;
+		padding: 20px 3% 30px;
+	}
+	.mum_service-list li h2 {
+	    font-size: 20px;
+	    line-height: 32px;
+	}
+	.mum_service-list li i{
+		margin: 7px 0;
+	}
+	.mum_service-list li p {
+	    font-size: 12px;
+	    line-height: 24px;
+	}
+	.mum_service-list{
+		padding: 5px 0 20px;
+	}
+	.mum_service-list .con{
+		padding: 20px 3% 0;
+	}
+	.mum_service-list .pic{
+		height: 450px;
+	}
+	.mum_service-list .pic img{
+		height: 100%;
+		width: auto;
+	}
+	.baby-service-list{
+		margin-bottom: 30px;
+	}
+	.baby-service li{
+		padding: 15px 2% 10px;
+	}
+	.baby-service li h2{
+		padding-left: 52px;
+	    line-height: 45px;
+	    font-size: 22px;
+	    background-size: 45px !important;
+	    margin-bottom: 12px;
+	}
+	.baby-service li p{
+		line-height: 20px;
+		font-size: 12px;
+		background-position:left 7px;
+	}
+	.baby-service{
+		padding: 30px 0;
+	}
+	.month-service{
+		padding: 30px 0;
+	}
+	.out-service{
+		padding: 30px 0;
+	} 
+	.month-service-top {
+	    margin-bottom: 30px;
+	}
+	.month-service-top .pic{
+		width: 50%;
+	}
+	.month-service-top .con{
+		width: 50%;
+		padding: 20px 2% 0;
+	}
+	.month-service-top .con h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+	.month-service-top .con i{
+		margin: 6px 0;
+	}
+	.month-service-top .con p{
+		padding-left: 12px;
+	    font-size: 12px;
+	    line-height: 22px;
+	    background: url(../img/ser11.png) no-repeat left 8px;
+	}
+	.month-service-top .con h3 {
+	    font-size: 12px;
+	    line-height: 22px;
+	}
+	.month-service-list li{
+		padding: 0 2% 25px;
+	}
+	.month-service-list{
+		margin-bottom: 30px;
+	}
+	.month-service-list li i {
+	    margin: 0 auto 15px;
+	}
+	.month-service-list li p {
+	    font-size: 12px;
+	    line-height: 22px;
+	    margin-top: 10px;
+	    height: 44px;
+	}
+	.out-service-intro .pic {
+	    width:50%;
+	}
+	.out-service-intro .con {
+	    width: 50%;
+	    padding: 20px 2% 0;
+	}
+	.out-service-intro h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+	.out-service-intro i {
+	    margin: 10px 0;
+	}
+	.out-service-intro p {
+	    font-size: 11px;
+	    line-height: 22px;
+	}
+	.out-service-intro{
+		margin: 25px 0 35px;
+	}
+	.professional {
+	    padding: 20px 0 50px;
+	}
+	.professional-list{
+		width: 100%;
+		margin: 16px auto 0;
+	}
+	.professional-list li h2,.professional-list li .bg{
+		width: 6.5vw;
+    	height: 6.5vw;
+    	line-height: 6.5vw;
+	}
+	.green-smart-list li .pic{
+		width: 120%;
+		margin-left:-60%;
+	}
+	.green-smart-list li{
+		width: 48.8%;
+	}
+	.green-smart-list li:nth-child(4n){
+		margin-right: 2.1%;
+	}
+	.green-smart-list li:nth-child(2n){
+		margin-right:0;
+	}
+	.trends{
+		padding: 30px 0 60px;
+	}
+	.trends-list li p {
+	    font-size: 18px;
+	    line-height: 28px;
+	    margin-top: 12px;
+	}
+	.international{
+		padding: 40px 0 150px;
+	}
+	.team-top{
+		margin-bottom: 24px;
+	}
+	.team-top-list {
+	    padding: 15px 2% 25px;
+	    margin-top: 20px;
+	}
+	.team .intro .font {
+	    font-size: 12px;
+	    line-height: 22px;
+	}
+	.team .intro h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	    margin: 10px 0;
+	}
+	.team .intro .bg {
+	    width: 30px;
+	    height: 30px;
+	    line-height: 27px;
+	    margin-right:5px;
+	}
+	.team .intro .pic{
+		width: 40%;
+	}
+	.team .intro .con {
+	    width: 56%;
+	}
+	.team-top-list dd{
+		margin-bottom:5px;
+	}
+	.team-top-list dd .box{
+		padding: 10px 4% 10px;
+	}
+	.team-top-list dd h2 {
+	    font-size: 18px;
+	    line-height: 28px;
+	    margin-bottom: 8px;
+	}
+	.team-top-list dd .b-font {
+	    font-size: 12px;
+	    line-height: 20px;
+	    height: 80px;
+	}
+	.team-top, .team-list li{
+		margin-bottom: 20px;
+	}
+	.team-list li h3 {
+	    font-size: 15px;
+	    line-height: 25px;
+	    margin-top: 1vw;
+	}
+	.team-font .con{
+		width: 92%;
+	}
+	.team-font .con h3{
+		margin-top: 10px;
+	}
+	.environment-list li{
+		margin-bottom: 50px;
+	}
+	.environment-list li .con{
+		padding:24px 3% 18px;
+	}
+	.environment-list li h2 {
+	    font-size: 22px;
+	    line-height: 32px;
+	}
+	.environment-list li h3 {
+	    font-size: 14px;
+	    line-height: 30px;
+	}
+	.environment-list li i{
+		margin: 5px 0 15px;
+	}
+	.environment-list li p.font {
+	    font-size: 12px;
+	    line-height: 24px;
+	    min-height: 144px;
+	}
+	.team{
+		padding: 20px 0 132px;
+	}
+	footer .link .box{
+		display: block !important;
+		top: 0px;
+	    right: 50%;
+	    margin-right: -199px;
+	}
+	footer .link a{
+		position: relative;
+		left: -62px;
+	}	
+	footer .link .box{
+		margin-right: -134px;
+	}
+	footer .bot{
+		padding: 20px 0;
+		margin-top: 8px;
+	}
+	.news-info-box{
+		width: 100%;
+	}
+	footer .flex-right li{
+		display: block;
+		float: left;
+		margin: 0 5px;
+	}
+	footer .flex-right{
+		width: 310px;
+	}
+	footer .top{
+		width: 52px;
+	}
+	footer .flex-right li .wei-pic{
+		top: auto;
+		bottom: 55px;
+		right: -129px;
+	}
+	footer .flex-right li .tele{
+		right: -21px;
+    	top: -42px;
+	}
+	.wel-team-list .flex-direction-nav a{
+		font-size: 16px;
+		font-family: '宋体';
+		color: #fff;
+		font-weight: bold;
+		text-shadow:0 0 1px rgba(0,0,0,.9);
+	}
+	.wel-brands .flex-direction-nav a{
+		margin-top: -61px;
+	}
+	footer .bot .contact{
+		display: block;
+		float: none;
+		width: 100%;
+		border-top: 1px solid #ededed;
+		text-align: center;
+		margin-top: 17px;
+		padding: 10px 0 0;
+	}
+	footer .contact h3 {
+	    margin-bottom: 0px;
+	}
+	.service-font{
+		width: 92%;
+	}
+}
+
+@media (min-width: 780px) and (max-width: 1000px){
+	
+}
+
+@media (max-width: 768px){
+	.wel-banner .swiper-wrapper img{
+		width: 800px;
+		margin-left:-400px; 
+	}
+	.wel-banner .swiper-wrapper li{
+		height: 375px;
+	}
+	.ab-culture-top i{
+		margin: 6px auto 8px;
+	}
+	.ab-culture-top h2{
+		margin-top: 3vw;
+		font-size: 18px;
+    	line-height: 28px;
+	}
+	.culturn-center-list .swiper-wrapper li {
+	    font-size: 13px;
+	    line-height: 22px;
+	}
+	.culturn-center-list{
+		height: 88px;
+	}
+	.ab-culture-top p{
+		font-size: 13px;
+		line-height: 22px;
+	}
+	.ab-news .list .pic {
+	    width: 38%;
+	}
+	.ab-news .list .con{
+		width: 59%;
+	}
+	.ab-news .list h2{
+		font-size: 18px;
+		height: 28px;
+		line-height: 28px;
+		overflow: hidden;
+	}
+	.ab-join-box .title span{
+		width: 48%;
+		line-height: 24px;
+	}
+	.ab-join-box .title span:first-child{
+		text-align: center;
+	}
+	.ab-join-box .title span:nth-child(3){
+		background: none;
+	}
+	.ab-join-box li.cur .add,.ab-join-box li .add{
+		position: absolute;
+		top: 50%;
+		right: 0;
+		margin-top: -15px;
+	}
+	.visit-box .visit-con .text, .visit-box .visit-con select,.visit-box1 .visit-con .text, ,.visit-box1 .visit-con select{
+		width: 100%;
+	}
+	.prenatal-care .prenatal-list li{
+		height: auto !important;
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 10px;
+	}
+	.month-service-top .con{
+		padding: 5px 2% 0;
+	}
+}
+
+@media (max-width: 630px){
+	.wel-news .left{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.wel-news .right{
+		width: 100%;
+	}
+	.wel-brands .slides .pic {
+	    width: 110px;
+	    height: 110px;
+	    line-height: 110px;
+	}
+	.wel-brands .slides .font {
+	    font-size: 16px;
+	    line-height: 26px;
+	    margin-top: 10px;
+	}
+	.ab-map-con .box{
+		width: 92%;
+		margin: 0 auto;
+	}
+	.ab-map-con{
+		width: 100%;
+		position: relative;
+		padding: 10px 0;
+	}
+	.ab-map-con .box{
+		position: relative;
+		margin-top: 0;
+		left: 0;
+		box-shadow: 0 0 10px rgba(0,0,0,.1);
+	}
+	.ab-map-con .box h2 {
+	    font-size: 16px;
+	    line-height: 26px;
+	}
+	#allmap{
+		height: 300px;
+	}
+	.ab-map-con .box .ff {
+	    font-size: 12px;
+	    line-height: 22px;
+	}
+	.ab-map-con .box .font {
+	    font-size: 12px;
+	    line-height: 22px;
+	    margin-top: 0;
+	}
+	.ab-join-box .con p {
+	    font-size: 12px;
+	    line-height: 22px;
+	}
+	.mom-box li p.font{
+		display: none;
+	}
+	.mom-box li .more{
+		width: 92%;
+	}
+	.news-list .slides li{
+		line-height: 45px;
+	}
+	.news-list .slides li a{
+		font-size: 14px;
+	}
+	.mum_service-list .pic{
+		height: auto;
+		width: 100%;
+		border-radius: 10px 10px 0 0;
+	}
+	.mum_service-list .pic img{
+		width: 100%;
+		height: auto;
+	}
+	.mum_service-list .con{
+		width: 100%;
+		padding: 20px 3%;
+	}
+	.baby-service li{
+		width: 100% !important;
+		margin-left: 0;
+		margin-bottom: 10px;
+	}
+	.baby-service li h2{
+		font-size: 18px;
+	}
+	.month-service-top .pic{
+		width: 100%;
+		border-radius: 15px 15px 0 0;
+	}
+	.month-service-top .con{
+		width: 100%;
+		padding: 10px 3%;
+	}
+	.month-service-list li{
+		width: 49.2%;
+		margin-bottom: 10px;
+	}
+	.month-service-list li:nth-child(3){
+		margin-left: 0;
+	}
+	.out-service-intro .pic{
+		width: 100%;
+		border-radius: 15px 15px 0 0;
+	}
+	.out-service-intro .con{
+		width: 100%;
+		padding: 10px 2%;
+	}
+	.green-smart-list li .pic{
+		width: 160%;
+		margin-left:-80%;
+	}
+	.green-smart-list li p {
+	    width: 92%;
+	    margin: 4px auto 8px;
+	    line-height: 18px;
+	    min-height: 72px;
+	}
+	.green-smart-list li .tit {
+	    margin: 10px auto 4px;
+	}
+	.trends-list li p {
+	    font-size: 14px;
+	    line-height: 24px;
+	    margin-top: 10px;
+	}
+	.visit-box .visit-con .text input.date, .visit-box1 .visit-con .text input.date{
+		width: 40%;
+	}
+}
+
+@media (max-width: 580px){
+	.city-box li{
+		width: 100%;
+	}
+	.city-box li.int .pic{
+		float: right;
+	}
+	.city-box li.int .bg{
+		right: auto;
+		left: 0;
+		background: url(../img/wel38.png) no-repeat center;
+	}
+	.city-box li.on .pic{
+		float: left;
+	}
+	.city-box li.on .bg{
+		right: 0;
+		left: auto;
+		background: url(../img/wel37.png) no-repeat center;
+	}
+	.city-box li i{
+		margin: 6px auto;
+	}
+	.city-box li .pic{
+		height: 240px;
+	}
+	.city-box li img{
+		margin-left: -120px;
+	}
+	.ab-culture-top .box {
+	    width: 42vw;
+	    height: 42vw;
+	    margin-top: 0;
+	}
+	.ab-culture-top h2{
+		margin-top: 11vw;
+	}
+	.culturn-center{
+		width: 60vw;
+		height: 60vw;
+		margin-left: 13vw;
+	}
+	.ab-news .list .more{
+		height: 30px;
+		line-height: 30px;
+		width: 125px;
+	}
+	.ab-news .list .font{
+		height: 24px;
+		overflow: hidden;
+	}
+	.ab-news .list h2{
+		margin-top: 0;
+		font-size: 16px;
+	}
+	.ab-news .list li{
+		padding: 10px 2%;
+	}
+	.mom-box li{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.mom-box li p.font{
+		display: block;
+	}
+	.page{
+		padding: 7px 0 5px;
+	}
+	.page a{
+		padding: 7px 11px;
+	    font-size: 12px;
+	    line-height: 12px;
+	    margin: 0 2px;
+	}
+	.mom-box li p.font {
+	    font-size: 12px;
+	    line-height: 20px;
+	    height: 20px;
+	}
+	.mom-box li h2 {
+	    font-size: 15px;
+	    line-height: 25px;
+	    height: 25px;
+	    margin-top: 0;
+	}
+	.mom-box li .more {
+	    height: 30px;
+	    line-height: 30px;
+	}
+	.news-list .slides li a{
+		border-radius: 35px;
+	}
+	.news-list .slides li:first-child a{
+		border-radius: 35px;
+	}
+	.dalshbet-list .pic{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.dalshbet-list li .con{
+		width: 100%;
+	}
+	.dalshbet-list li {
+	    margin-bottom:30px;
+	}
+	.dalshbet-font{
+		padding: 10px 0 20px;
+	}
+	.dalshbet-list li .consult-link{
+		line-height: 35px;
+	}
+	.team-top-list dd{
+		width: 48.8%;
+	}
+	.team-top-list dd:nth-child(2n){
+		margin-right: 0;
+	}
+	.team .intro .pic{
+		width: 100%;
+	}
+	.team .intro .con{
+		width: 100%;
+		margin-left: 0;
+	}
+	.team-top-list dd .b-font{
+		height: auto;
+		min-height: 100px;
+	}
+	.team-list li.odd .con{
+		margin-left: 0;
+	}
+	.team-list li .con{
+		padding: 10px 0 30px;
+	}
+	.team-font .con p {
+	    font-size: 12px;
+	    line-height: 22px;
+	}
+	.team-font .con {
+	    height: 300px;
+	    padding: 15px 4%;
+	}
+	.team-font .con .close {
+	    width: 30px;
+	    height: 30px;
+	    top: 15px;
+	    background-size: 100%;
+	}
+	.team-font .con h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	    margin-bottom: 10px;
+	}
+	.team-font .con .font{
+		height: 210px;
+	}
+	.prenatal-care .prenatal-list .link{
+		font-size: 12px;
+	}
+	.news-list .slides li:nth-child(2n+1) a{
+		border-radius:35px;
+	}
+	.news-list .slides li:nth-child(2n) a{
+		border-radius:35px;
+	}
+	.mom-box li .pic{
+		height: auto;
+	}
+}
+@media (max-width: 480px){
+	.wel-banner .swiper-wrapper img{
+		width:500px;
+		margin-left:-250px; 
+	}
+	.wel-banner .swiper-wrapper li{
+		height: 234px;
+	}
+	.wel-service .left{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.wel-service .right{
+		width: 100%;
+	}
+	.wel-service .pic p {
+	    font-size: 14px;
+	    line-height: 24px;
+	    padding: 40px 55px 10px 0;
+	}
+	.wel-team-box .pic{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.wel-team-box .con{
+		width: 100%;
+		padding-bottom: 30px;
+	}
+	.wel-team-box .con a{
+		bottom: -10px;
+	}
+	.wel-news .news-intro h2{
+		margin-top: 0;
+		height: 26px;
+		line-height: 26px;
+	}
+	.wel-news li h2{
+		width: 66%;
+		height: 22px;
+		overflow: hidden;
+	}
+	.wel-environment-font{
+		font-size: 12px;
+		line-height: 22px;
+	}
+	.wel-environment-list li.swiper-slide-next a{
+		width: 80%;
+		left: 50%;
+		top: 20px;
+		margin-left: -40%;
+	}
+	.wel-environment-list li.swiper-slide-active a{
+		width: 120%;
+		top: 0;
+		margin-left: -60%;
+	}
+	.wel-environment-list li .font{
+		font-size: 14px;
+		line-height: 28px;
+	}
+	.wel-environment-list{
+		padding: 0 60px;
+	}
+	.wel-environment-list .swiper-wrapper{
+		padding: 30px 0;
+	}
+	.wel-environment-list .swiper-button-next,.wel-environment-list .swiper-button-prev{
+		display: none;
+	}
+	.wel-brands .slides .pic {
+	    width: 150px;
+	    height: 150px;
+	    line-height: 150px;
+	}
+	.inline-banner{
+		height: 230px;
+		background-size: 800px !important;
+	}
+	.ab-intro-list li{
+		width: 48.9%;
+		margin-bottom: 10px;
+	}
+	.ab-intro-list li:nth-child(3){
+		margin-left: 0;
+	}
+	.ab-culture-top .box {
+	    width: 45vw;
+	    height: 45vw;
+	}
+	.ab-culture-top h2 {
+	    margin-top: 5vw;
+	}
+	.ab-culture .box-h{
+		padding-bottom: 40px;
+	}
+	.ab-news .list .font{
+		margin-top: 0;
+	}
+	.ab-news .list .more{
+		width: 105px;
+	}
+	.ab-news .list .more span{
+		font-size: 12px;
+	}
+	.ab-news .more-ajax {
+	    width: 142px;
+	    margin: 10px auto 0;
+	    height: 35px;
+	    line-height: 35px;
+	}
+	.ab-news .more-ajax span{
+		font-size: 12px;
+	    background-size:10px !important;
+	}
+	.ab-join-box li.cur .add,.ab-join-box li .add{
+		display: none;
+	}
+	.ab-join-box .title span{
+		width: 100%;
+		background: none;
+		text-align: left;
+	}
+	.ab-join-box .title span:first-child{
+		text-align: left;
+	}
+	.news-info-box .info-bot .return{
+		float: left;
+		margin-top: 10px;
+		width: 120px;
+	    height: 30px;
+	    line-height: 30px;
+	}
+	.news-info-box .info-bot .con{
+		width: 100%;
+	}
+	.news-info-box h2{
+		position: relative;
+	}
+	.news-info-box h2 .time{
+		float: none;
+    	position: absolute;
+    	left: 50%;
+    	top: 40px;
+    	margin-left: -66px;
+	}
+	.now {
+	    margin-bottom: 0px;
+	}
+	.visit-box .visit-con .text, .visit-box .visit-con select,.visit-box1 .visit-con .text,.visit-box1 .visit-con select{
+		font-size: 12px;
+		width: 100%;
+	}
+	.weixin-box .con{
+		width: 200px;
+		height: 200px;
+		line-height: 140px;
+	}
+	.news-info-box h2 {
+	    font-size: 16px;
+	    text-align: center;
+	    line-height: 26px;
+	    padding: 14px 0 36px;
+	}
+	.news-info-box.on h2{
+		padding: 14px 0 16px;
+	}
+	.news-info-box .bdsharebuttonbox a{
+		margin: 0 3px;
+	}
+	header .nav-btn{
+		width: 30px;
+		height: 25px;
+	}
+	header .nav-btn .line2 {
+	    top: 10px;
+	}
+	header .nav-btn{
+		margin-top: 8px;
+	}
+	.classroom-mobile td:first-child{
+		width: 33%;
+	}
+	.classroom-mobile td{
+		width: 66%;
+		font-size: 12px;
+	}
+	.classroom{
+		padding: 35px 0 0px;
+	}
+	.classroom-info .font p{
+		font-size: 12px;
+		line-height: 22px;
+	}
+	.classroom-info .font{
+		height: 110px;
+	}
+	.classroom-info h2 {
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+	.classroom-info .font {
+	    margin-top: 15px;
+	}
+	.classroom-info .con{
+		height: 210px;
+	}
+	.service-font p {
+	    font-size: 12px;
+	    line-height: 20px;
+	}
+	.mum_service-list li{
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 10px;
+		height: auto;
+	}
+	.professional-list li:nth-child(3){
+		margin-left: 0;
+	}
+	.professional-list li {
+	    width: 48%;
+	    padding: 3%;
+	    margin-left: 3.5%;
+	}
+	.professional-list li h2,.professional-list li .bg{
+		width: 20vw;
+    	height: 20vw;
+    	line-height: 20vw;
+	}
+	.green-smart-list li{
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.green-smart-list li .pic {
+	    width: 130%;
+	    margin-left: -65%;
+	}
+	.trends-list li{
+		width: 50.5%;
+	}
+	.environment-list li .pic{
+		width: 100%;
+		height: 200px !important;
+		background-size: 100% auto !important;
+	}
+	.environment-list li .con{
+		width: 100%;
+	}
+	footer .font{
+		line-height: 55px;
+	}
+	.ab-join-box .con a{
+		width: 94%;
+		height: 40px;
+		line-height: 40px;
+		font-size: 12px;
+	}
+	.news-box-list li h2{
+		font-size: 14px;
+		line-height: 30px;
+    	height: 30px;
+	}
+	.news-box-list li span{
+		font-size: 12px;
+	}
+	.news-box-list li{
+		padding: 5px 0 5px 15px;
+	}
+	.news-list .slides li{
+		line-height: 32px;
+	}
+	.news-list{
+		margin: 10px auto 20px;
+	}
+	.news-box-list{
+		margin-bottom: 30px;
+	}
+	.news-box {
+	    padding: 15px 0 30px;
+	}
+	.consult-link{
+		line-height: 35px;
+		font-size: 14px;
+		width: 220px;
+	}
+	.ab-join{
+		padding: 30px 0 0px;
+	}
+	footer .bot{
+		padding: 8px 0;
+		margin-top: 8px;
+	}
+	footer .font {
+	    line-height: 24px;
+	}
+	footer .link {
+	    margin:10px auto 0;
+	}
+	footer .font span{
+		display: block;
+	}
+	footer .flex-right li{
+		margin: 0 2px;
+	}
+	footer .flex-right{
+		width: 235px;
+		height: 42px;
+	}
+	footer .flex-right li{
+		width: 42px;
+		height: 42px;
+	}
+	footer .flex-right li .pic{
+		background-size: 16px !important;
+	}
+	footer .flex-right li .wei-pic{
+		width: 210px;
+	}
+	.flex-right li .wei-pic .span{
+		padding: 2px;
+	}
+	footer .flex-right li .wei-pic{
+		right: -86px;
+	}
+	.wel-brands .flex-direction-nav a{
+		margin-top: -51px;
+	}
+	.service-font{
+		width: 100%;
+	}
+}
+
+@media (min-width: 1025px){
+	a:hover,footer .fot-nav h2 a:hover,footer .fot-nav p a:hover,footer .font a:hover{
+		color: #b07033;
+	}
+	footer .link a.weixin:hover{
+		background:#b07033 url(../img/fot02_h.png) no-repeat center;
+	}
+	footer .link a.weibo:hover{
+		background:#b07033 url(../img/fot03_h.png) no-repeat center;
+	}
+	footer .link a.search:hover{
+		background:#b07033 url(../img/fot04_h.png) no-repeat center;
+	}
+	.wel-service .box:hover .pic{
+		box-shadow: 0 0 5px rgba(0,0,0,.2);
+	}
+	.flex-right li:hover .bg{
+		transform: scale(0.9);
+	}
+	.flex-right li:hover .border{
+		transform: scale(1);
+	}
+	.wel-service .box:hover img{
+		transform: scale(1.1);
+	}
+	.wel-team-list .slides li:hover{
+		background: #c87e37;
+	}
+	.wel-team-list .slides li:hover p{
+		color: #fff;
+	}
+	.wel-team-list .slides li:hover .ico_1{
+		background: url(../img/wel11_h.png) no-repeat center;
+	}
+	.wel-team-list .slides li:hover .ico_2{
+		background: url(../img/wel12_h.png) no-repeat center;
+	}
+	.wel-team-list .slides li:hover .ico_3{
+		background: url(../img/wel13_h.png) no-repeat center;
+	}
+	.wel-team-list .slides li:hover .ico_4{
+		background: url(../img/wel14_h.png) no-repeat center;
+	}
+	.wel-team-list .slides li:hover .ico_5{
+		background: url(../img/wel15_h.png) no-repeat center;
+	}
+	.wel-team-list .slides li:hover .ico_6{
+		background: url(../img/wel16_h.png) no-repeat center;
+	}
+	.wel-team-list .slides li:hover .ico_7{
+		background: url(../img/wel17_h.png) no-repeat center;
+	}
+	.wel-team-list .slides li:hover .ico_8{
+		background: url(../img/wel18_h.png) no-repeat center;
+	}
+	.wel-team-box .con a:hover{
+		right: 5px;
+	}
+	.wel-news .news-intro:hover img{
+		transform: scale(1.1);
+	}
+	.wel-news .news-intro:hover h2{
+		color: #f6a021;
+	}
+	.wel-news li:hover h2{
+		color: #f6a021;
+	}
+	.wel-news .more:hover{
+		color: #c87e37;
+		background: url(../img/wel21.png) no-repeat 87px center;
+	}
+	.wel-brands .slides li:hover .pic{
+		background:#b07033;
+	}
+	.wel-brands .slides li:hover img{
+		transform: scale(1.1);
+	}
+	.wel-brands .flex-direction-nav .flex-prev:hover{
+		background: url(../img/wel35_h.png) no-repeat center;
+	}
+	.wel-brands .flex-direction-nav .flex-next:hover{
+		background: url(../img/wel36_h.png) no-repeat center;
+	}
+	.city-box li:hover img{
+		transform: scale(1.1);
+	}
+	.city-box li:hover h2{
+		color: #c87e37;
+	}
+	.ab-intro-list li:hover img{
+		transform: scale(1.1);
+	}
+	.culturn-center-list .swiper-pagination .swiper-pagination-bullet:hover{
+		background: url(../img/ab08_h.png) no-repeat center;
+		background-size: 100%;
+	}
+	.ab-news .list li:hover h2,.ab-news .list li:hover .font{
+		color: #ce8b4c;
+	}
+	.ab-news .list li:hover .more{
+		background: #ce8b4c;
+	}
+	.ab-news .list li:hover .more span{
+		color: #fff;
+		background: url(../img/ab10_h.png) no-repeat right center;
+	}
+	.ab-news .list li:hover img{
+		transform: scale(1.1);
+	}
+	.ab-news .more-ajax:hover{
+		background: #b98758;
+	}
+	.now a:hover{
+		color: #cb8441;
+	}
+	.news-info-box .info-bot p a:hover{
+		color: #b07033;
+	}
+	.news-info-box .info-bot .return:hover{
+		background: #b07033;
+	}
+	.visit-box .visit-con .close:hover,.visit-box1 .visit-con .close:hover{
+		transform: rotate(180deg);
+	}
+	.page a:hover{
+		background: #ce8b4c;
+		color: #fff;
+	}
+	.news-list .slides li:hover a{
+		background: #ce8b4c;
+		color: #fff;
+	}
+	.news-list .slides li:hover .ico01{
+		background: url(../img/news02_h.png) no-repeat left center;
+	}
+	.news-list .slides li:hover .ico02{
+		background: url(../img/news03_h.png) no-repeat left center;
+	}
+	.news-list .slides li:hover .ico03{
+		background: url(../img/news04_h.png) no-repeat left center;
+	}
+	.news-list .slides li:hover .ico04{
+		background: url(../img/news05_h.png) no-repeat left center;
+	}
+	.news-box-list li:hover{
+		background: url(../img/news06_h.png) no-repeat left center;
+	}
+	.news-box-list li:hover h2{
+		color: #ce8b4c;
+	}
+	.news-box-list li:hover span{
+		color: #ce8b4c;
+	}
+	header li .con a:hover{
+		color: #b07033
+	}
+	.wel-environment-list li:hover img{
+		transform: scale(1.1);
+	}
+	.wel-environment-list li:hover .font{
+		color: #c87e37;
+	}
+	.mom-box li:hover h2{
+		color: #ce8b4c;
+	}
+	.mom-box li:hover .more{
+		background: #ce8b4c;
+	}
+	.mom-box li:hover .more span{
+		 background: url(../img/ab10_h.png) no-repeat right center;
+		 color: #fff;
+	}
+	.mom-box li:hover img{
+		transform: scale(1.1);
+	}
+	.product-nav .tit-box a:hover{
+		color: #d9271b;
+	}
+	.table-box td .tit-info:hover{
+		color: #ce8b4c;
+	}
+	.classroom-info .close:hover{
+		transform:rotate(180deg);
+	}
+	.dalshbet-list li .box a:hover,.dalshbet-list li .link:hover{
+		color: #ce8b4c;
+	}
+	.consult-link:hover{
+		background: #ce8b4c;
+		color: #fff;
+	}
+	.consult-link:hover span{
+		background: url(../img/da06_h.png) no-repeat right center;
+	}
+	.dalshbet-list li:hover .pic img{
+		transform: scale(1.1);
+	}
+	.prenatal-care .prenatal-list .con p.link:hover{
+		color: #c87e37;
+	}
+	.prenatal-care .prenatal-list li:hover img{
+		transform: scale(1.1);
+	}
+	.professional-list li:hover img{
+		transform: scale(1.1);
+	}
+	.green-smart-list li:hover .pic{
+		opacity: 1;
+	}
+	.team-top-list dd:hover img{
+		transform: scale(1.1);
+	}
+	.team-top-list dd:hover .box{
+		background: #c87e37;
+	}
+	.team-top-list dd:hover h2,.team-top-list dd:hover .b-font{
+		color: #fff;
+	}
+	.flex-right li:hover p{
+		opacity: 1;
+	}
+	.flex-right li:hover .pic{
+		opacity: 0;
+	}
+	.flex-right li.oo:hover .pic{
+		opacity: 1;
+	}
+	.mum_service-list .pic:hover img{
+		transform: scale(1.1);
+	}
+	.month-service-top .pic:hover img{
+		transform: scale(1.1);
+	}
+	.out-service-intro .pic:hover img{
+		transform: scale(1.1);
+	}
+	.trends-list li:hover img{
+		transform: scale(0.9);
+	}
+	.team-list li:hover img{
+		transform: scale(1.1);
+	}
+	.environment-list dd:hover img{
+		transform: scale(1.1);
+	}
+}

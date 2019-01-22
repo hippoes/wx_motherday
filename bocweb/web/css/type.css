@@ -1,0 +1,27 @@
+header ul.list li{
+	width: 50%;
+}
+header ul.list{
+	width: 24%;
+}
+header ul.one{
+	margin-left: 15%;
+}
+footer .fot-nav li{
+	width: 100%;
+}
+footer .fot-nav ul{
+	width: 100%;
+}
+footer .top{
+	padding: 47px 21% 27px;
+}
+footer .fot-nav{
+	width: 16.2%;
+}
+footer .contact{
+	width: 43.3%;
+}
+footer .weima {
+    width: 50%;
+}
